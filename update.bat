@@ -1,0 +1,1 @@
+powershell.exe src\update.ps1
